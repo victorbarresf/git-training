@@ -1,1 +1,0 @@
-File to check conflicts from command line

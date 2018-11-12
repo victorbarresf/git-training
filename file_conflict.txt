@@ -1,1 +1,1 @@
-File with conflicts from command line
+File with conflicts from GitHub/command line
