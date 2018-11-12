@@ -8,3 +8,5 @@ Added line in new branch exercise 3
 New line added for featureGFT branch
 New line in master branch
 Second new line in master branch
+Line 1 for conflicts in featureGFT branch
+Line 2 for conflicts in featureGFT branch
