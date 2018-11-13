@@ -11,3 +11,4 @@ Second new line in master branch
 Line 1 for conflicts in featureGFT branch
 Line 2 for conflicts in featureGFT branch
 Added line to check stash
+New line to test tag command
